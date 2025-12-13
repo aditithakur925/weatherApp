@@ -1,4 +1,4 @@
-# WeatherApp
+# SkyCast
 
 A modern, simple, and intuitive mobile application to check real-time weather conditions and forecasts. Built using Java for Android, this application aims to provide users with accurate weather information for any location worldwide.
 
@@ -34,7 +34,7 @@ Follow these instructions to set up the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/abhirai7/weatherApp.git](https://github.com/abhirai7/weatherApp.git)
+    git clone [https://github.com/abhirai7/SkyCast.git](https://github.com/abhirai7/SkyCast.git)
     ```
 
 2.  **Open in Android Studio:**
